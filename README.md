@@ -6,6 +6,8 @@ Nutrient recommendation tool for various crops
 
 Install Poetry - see [here](https://python-poetry.org/docs/)
 
+To install all the dependencies run:
+
 ```bash
 poetry install
 ```
